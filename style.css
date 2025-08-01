@@ -30,8 +30,8 @@ h1 {
 img {
     height: 150px;
     width: 150px;
-    object-fit: cover;
-    border-radius: 50%;
+    object-fit: cover;  /*cropping them to fit*/
+    border-radius: 50%; /*makes image circular*/
 }
 
 .choices {
